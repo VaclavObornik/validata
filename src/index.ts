@@ -12,5 +12,6 @@ export * from './tuple';
 export * from './types';
 export * from './url';
 export * from './validation-error';
+export * from './direct';
 
 // intentionally left empty
